@@ -6,13 +6,13 @@
 
 -	If this is your very first project in Terraform, please do the following:
 
-	Launch a command line interface of your choice as administrator.  This can be within VS Code, Terminal, Git Bash, or PowerShell.
+-	Launch a command line interface of your choice as administrator.  This can be within VS Code, Terminal, Git Bash, or PowerShell.
 		
-	Path to the location of the directory you want to create a project in.  For Class 7, this will be the Terraform directory located here: "C:\Users\<Your username here>\Documents\TheoWAF\class7\AWS\Terraform".
+-	Path to the location of the directory you want to create a project in.  For Class 7, this will be the Terraform directory located here: "C:\Users\<Your username here>\Documents\TheoWAF\class7\AWS\Terraform".
 		
-	Once there, run Aaron's Terraform verification script: "curl https://raw.githubusercontent.com/aaron-dm-mcdonald/Class7-notes/refs/heads/main/101825/check.sh | bash".
+-	Once there, run Aaron's Terraform verification script: "curl https://raw.githubusercontent.com/aaron-dm-mcdonald/Class7-notes/refs/heads/main/101825/check.sh | bash".
 		
-	Once the script is complete, the results will tell you if Terraform is configured correctly and a new file will be created in the Terraform directory called .gitignore.
+-	Once the script is complete, the results will tell you if Terraform is configured correctly and a new file will be created in the Terraform directory called .gitignore.
 	
 -	In the command line, create a new directory for your new Terraform project using the following command: mkdir <Your directory name>.  I typically name the project after the date it was created (mkdir mm.dd.yy). You can name the directory whatever you want.
 
